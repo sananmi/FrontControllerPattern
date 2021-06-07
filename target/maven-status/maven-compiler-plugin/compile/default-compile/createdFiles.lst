@@ -1,0 +1,7 @@
+org\example\commands\SearchCommand.class
+org\example\repo\BookshelfImpl.class
+org\example\config\FrontControllerServlet.class
+org\example\commands\UnknownCommand.class
+org\example\commands\FrontCommand.class
+org\example\model\Book.class
+org\example\repo\Bookshelf.class
